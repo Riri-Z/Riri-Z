@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riri Zamor</h1>
 <h3 align="center">Exploring new ways of thinking</h3>
 
-- 🔭 [A Portfolio](https://riri-portfolio.netlify.app/)
-
 - 📫 How to reach me **riri.zamor@gmail.com**
 
 <p align="left">
